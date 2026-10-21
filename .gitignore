@@ -1,0 +1,9 @@
+# 코드만 올린다: 학회원 데이터(train/test.csv), 제출 파일, 요약 CSV, 학습 로그, PDF는 제외
+*
+!*/
+!.gitignore
+!.gitattributes
+!*.py
+!*.ipynb
+
+__pycache__/
